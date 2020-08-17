@@ -12,4 +12,4 @@ write port on joption pane....click 'ok'
 CLIENT:
 
 just run client.java
-then enter ip & port...clikck 'ok'
+then enter ip & port...click 'ok'
